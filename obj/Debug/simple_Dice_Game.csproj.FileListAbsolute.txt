@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\bin\Debug\simple_Dice_Game.exe.config
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\bin\Debug\simple_Dice_Game.exe
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\bin\Debug\simple_Dice_Game.pdb
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\obj\Debug\simple_Dice_Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\obj\Debug\simple_Dice_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\obj\Debug\simple_Dice_Game.exe
+C:\Users\User\source\repos\simple_Dice_Game\simple_Dice_Game\obj\Debug\simple_Dice_Game.pdb
