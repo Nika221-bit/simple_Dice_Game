@@ -11,6 +11,7 @@ namespace simple_Dice_Game
         static void Main(string[] args)
         {
             int playRandomNum;
+            int enemyRandomNum;
 
             Random random = new Random();
 
@@ -21,7 +22,16 @@ namespace simple_Dice_Game
                 Console.ReadKey();
                 playRandomNum = random.Next(1, 7);
                 Console.WriteLine("you rolled a" + " " + playRandomNum);
+
+                enemyRandomNum = random.Next(1, 7);
+                Console.WriteLine("Enemy rolled a" + " " + enemyRandomNum);
+
+                Console.WriteLine("...");
+                System.Threading.Thread.Sleep(1000);
+               
+              
             }
+            
 
             Console.ReadKey();
         }
